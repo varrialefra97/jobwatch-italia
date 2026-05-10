@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  padding: 40px 20px;
+  background: #111827;
+}
+
+.hero h1 {
+  margin: 10px 0;
+}
+
+.subtitle {
+  color: #cbd5e1;
+}
+
+main {
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+input,
+select,
+button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.jobs {
+  display: grid;
+  gap: 16px;
+}
+
+.job-card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.job-card h2 {
+  margin-top: 0;
+}
+
+.job-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #60a5fa;
+}
+
+.notice {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 20px;
+  color: #94a3b8;
+}
