@@ -1,21 +1,18 @@
-# Aggiungi qui aziende che operano in Italia.
-# Per siti semplici usa type: html.
-# Per Greenhouse/Lever puoi usare type: greenhouse o type: lever quando conosci lo slug.
-
 sources:
-  - company: Esempio Azienda Italia
-    type: html
-    url: https://example.com/careers
-    country: Italy
+  - name: Enel
+    url: https://www.enel.com/careers
 
-  # Esempio Greenhouse:
-  # - company: Nome Azienda
-  #   type: greenhouse
-  #   board_token: nomeazienda
-  #   country: Italy
+  - name: Ferrovie dello Stato
+    url: https://fscareers.gruppofs.it
 
-  # Esempio Lever:
-  # - company: Nome Startup
-  #   type: lever
-  #   lever_slug: nomestartup
-  #   country: Italy
+  - name: Poste Italiane
+    url: https://www.posteitaliane.it/it/lavora-con-noi.html
+
+  - name: Intesa Sanpaolo
+    url: https://group.intesasanpaolo.com/it/careers
+
+  - name: UniCredit
+    url: https://www.unicreditgroup.eu/en/careers.html
+
+  - name: Esselunga
+    url: https://www.esselungajob.it
