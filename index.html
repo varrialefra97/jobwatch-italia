@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JobWatch Italia | Marketing, Comunicazione e Laurea Triennale</title>
+  <meta name="description" content="Offerte di lavoro da siti ufficiali di aziende che operano in Italia, con focus marketing, comunicazione e laurea triennale." />
+  <link rel="stylesheet" href="static/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">JobWatch Italia</p>
+      <h1>Offerte ufficiali da aziende in Italia</h1>
+      <p class="subtitle">Focus su marketing, comunicazione e posizioni compatibili con laurea triennale. I dati vengono aggiornati automaticamente ogni 6 ore tramite GitHub Actions.</p>
+    </div>
+    <div class="stats">
+      <span id="totalJobs">0</span>
+      <small>offerte trovate</small>
+      <small id="lastUpdated">Aggiornamento: —</small>
+    </div>
+  </header>
+
+  <main>
+    <section class="filters" aria-label="Filtri offerte">
+      <input id="searchInput" type="search" placeholder="Cerca ruolo, azienda, città..." />
+      <select id="categoryFilter">
+        <option value="all">Tutte</option>
+        <option value="marketing">Marketing / Comunicazione</option>
+        <option value="triennale">Compatibili triennale</option>
+      </select>
+      <select id="sourceFilter">
+        <option value="all">Tutte le aziende</option>
+      </select>
+      <button id="resetBtn" type="button">Reset</button>
+    </section>
+
+    <section class="notice">
+      <strong>Nota:</strong> le candidature avvengono sempre sul sito ufficiale dell’azienda. Questo sito indicizza solo titolo, azienda, località e link pubblico.
+    </section>
+
+    <section id="jobs" class="jobs" aria-live="polite"></section>
+    <section id="empty" class="empty" hidden>Nessuna offerta trovata con questi filtri.</section>
+  </main>
+
+  <footer>
+    <p>Fonti configurabili in <code>sources.yaml</code>. Dati generati in <code>data/jobs.json</code>.</p>
+  </footer>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
