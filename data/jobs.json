@@ -1,4 +1,21 @@
 {
-  "updated_at": "",
-  "jobs": []
+  "updated_at": "2026-05-10T11:22:19.280934",
+  "jobs": [
+    {
+      "title": "Junior Marketing Specialist",
+      "company": "Enel",
+      "location": "Roma",
+      "degree": "Laurea Triennale",
+      "url": "https://www.enel.com",
+      "category": "marketing"
+    },
+    {
+      "title": "Communication Assistant",
+      "company": "Ferrovie dello Stato",
+      "location": "Milano",
+      "degree": "Laurea Triennale",
+      "url": "https://fscareers.gruppofs.it",
+      "category": "comunicazione"
+    }
+  ]
 }
