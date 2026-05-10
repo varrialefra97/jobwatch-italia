@@ -1,21 +1,821 @@
 {
-  "updated_at": "2026-05-10T11:22:19.280934",
+  "updated_at": "2026-05-10T11:39:03.057989",
   "jobs": [
     {
-      "title": "Junior Marketing Specialist",
+      "title": "Skip to content",
       "company": "Enel",
-      "location": "Roma",
-      "degree": "Laurea Triennale",
-      "url": "https://www.enel.com",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers#main",
       "category": "marketing"
     },
     {
-      "title": "Communication Assistant",
+      "title": "Skip to Main Content",
+      "company": "Enel",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers/employee-experiences#main",
+      "category": "marketing"
+    },
+    {
+      "title": "Skip to Main Content",
+      "company": "Enel",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers/teams#main",
+      "category": "marketing"
+    },
+    {
+      "title": "Skip to Main Content",
+      "company": "Enel",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers/being-enel#main",
+      "category": "marketing"
+    },
+    {
+      "title": "Ferrovie dello Stato Italiane S.p.A.: Eurofima sottoscrive nuove obbligazioni a 20 anni per 500 milioni di euro",
       "company": "Ferrovie dello Stato",
-      "location": "Milano",
-      "degree": "Laurea Triennale",
-      "url": "https://fscareers.gruppofs.it",
-      "category": "comunicazione"
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/comunicati-stampa/2026/5/7/gruppofs-eurofirma-sottoscrive-nuove-obbligazioni-a-20-anni-per-500mln-euro.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Gruppo FS, Bilancio 2025: utile netto 30 mln€. Record ricavi (17,3 mld€) e investimenti (18,3 mld€)",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/comunicati-stampa/2026/4/2/gruppofs-bilancio-2025-utile-netto-30mln-di-euro-record-ricavi-e-investimenti.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Ingegneria e digitalizzazione",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/innovazione/ingegneria-e-digitalizzazione.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Media",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Comunicati stampa",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/comunicati-stampa.html",
+      "category": "marketing"
+    },
+    {
+      "title": "La Freccia Magazine",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/magazines.html",
+      "category": "marketing"
+    },
+    {
+      "title": "News",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/news.html",
+      "category": "marketing"
+    },
+    {
+      "title": "La Freccia Sans Frontières",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/la-freccia-sans-frontieres-.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Eventi",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/eventi.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Podcast",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/podcast.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Rassegna stampa web",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web.html",
+      "category": "marketing"
+    },
+    {
+      "title": "FSNews.it",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/fsnews.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Contatti Communication",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/contatti.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Dizionario Gruppo FS",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/dizionario-gruppofs.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Gruppo FS al Festival Internazionale Kids: viaggio immersivo tra binari e giovani lettori",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/comunicati-stampa/2026/5/8/gruppo-fs-al-festival-internazionale-kids--viaggio-immersivo-tra.html",
+      "category": "marketing"
+    },
+    {
+      "title": "FS Cantieri Parlanti: Linea AV/AC Napoli – Bari, ultimato lo scavo della Galleria Rocchetta",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/comunicati-stampa/2026/5/5/fs-cantieri-parlanti--linea-av-ac-napoli---bari--ultimato-lo-sca.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Neolaureati",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Le grandi opere civili",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/innovazione/ingegneria-e-digitalizzazione/le-grandi-opere-civili.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Annuario 2025 - La Freccia Magazine",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/magazines/annuario-2025-la-freccia-magazine.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Testa a testa",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/podcast/testa-a-testa.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Prossima Fermata Scali Ferroviari",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/podcast/prossima-fermata-scali-ferroviari.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Next Stop",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/podcast/next-stop.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Viaggi ad arte",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/podcast/viaggi-ad-arte.html",
+      "category": "marketing"
+    },
+    {
+      "title": "#10anniAV",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/-10anniav.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Orario invernale Trenitalia 2019-2020",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/orario-invernale-trenitalia-2019-2020.html",
+      "category": "marketing"
+    },
+    {
+      "title": "#RiparTIAMOItalia",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/-ripartiamoitalia.html",
+      "category": "marketing"
+    },
+    {
+      "title": "I risultati del Gruppo FS",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/i-risultati-del-gruppo-fs.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Orario estivo Trenitalia 2020",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/orario-estivo-trenitalia-2020.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Governance",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/rassegna-governance.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Sostenibilità",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/rassegna-sostenibilita.html",
+      "category": "marketing"
+    },
+    {
+      "title": "People",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/rassegna-people.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Orario estivo Trenitalia 2021",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/orario-estivo-trenitalia-2021.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Il treno della Dolce Vita",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/il-treno-della-dolce-vita-.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Connecting Europe Express",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/connecting-europe-express.html",
+      "category": "marketing"
+    },
+    {
+      "title": "FS Italiane a Expo 2020 Dubai",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/fs-italiane-a-expo-2020-dubai-.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Treno storico del Milite Ignoto",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/treno-storico-del-milite-ignoto.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Frecciarossa sulla Parigi-Lione-Milano",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/frecciarossa-sulla-parigi-lione-milano.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Opere Strategiche",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/opere-strategiche.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Presentazione Piano Industriale 2022-2031 del Gruppo FS",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/presentazione-piano-industriale-2022-2031-del-gruppo-fs.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Gruppo FS a Innotrans 2022",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/media/rassegna-stampa-web/gruppo-fs-a-innotrans-2022.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Percorso di selezione e digital recruiting",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/lavorare-con-noi/percorso-di-selezione-e-digital-recruiting.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Ingegneria",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/ingegneria.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Produzione e circolazione",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/produzione-e-circolazione.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Sicurezza",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/sicurezza.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Qualità",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/qualita.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Manutenzione",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/manutenzione.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Marketing e commerciale",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/marketing-e-commerciale.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Acquisti e logistica",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/acquisti-e-logistica.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Immobiliare e servizi",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/immobiliare-e-servizi.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Investimenti",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/investimenti.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Aree di staff",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/aree-di-staff.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Media",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/lavora-con-noi.html#navigation-collapse-3",
+      "category": "marketing"
+    },
+    {
+      "title": "Media",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#navigation-collapse-3",
+      "category": "marketing"
+    },
+    {
+      "title": "I nostri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476645791745-i_nostri_eventi-collapse-0",
+      "category": "marketing"
+    },
+    {
+      "title": "I nostri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476634909287-i_nostri_eventi-collapse-0",
+      "category": "marketing"
+    },
+    {
+      "title": "I nostri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476607644395-i_nostri_eventi-collapse-0",
+      "category": "marketing"
+    },
+    {
+      "title": "I nostri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476581512069-i_nostri_eventi-collapse-0",
+      "category": "marketing"
+    },
+    {
+      "title": "I nostri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476553697849-i_nostri_eventi-collapse-0",
+      "category": "marketing"
+    },
+    {
+      "title": "Altri eventi",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/career-day.html#1476502358723-altri_eventi-collapse-1",
+      "category": "marketing"
+    },
+    {
+      "title": "Media",
+      "company": "Poste Italiane",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.posteitaliane.it/it/opportunita-per-giovani-talenti.html#navigation-collapse-3",
+      "category": "marketing"
+    },
+    {
+      "title": "Lavorare nell'Area Data, A.I. and Technology",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/it/careers/percorsi-in-evidenza/lavorare-nell-it-digital-e-innovation-area",
+      "category": "marketing"
+    },
+    {
+      "title": "Inglese",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/en/careers/highlighted-paths/work-in-it-digital-and-innovation-area",
+      "category": "marketing"
+    },
+    {
+      "title": "Cookie Policy",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Chi Siamo",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Azienda/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Mission e valori",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Mission/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Storia",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Storia/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "ESSELUNGA PEOPLE",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Esselunga_People/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "FORMAZIONE",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Formazione/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Per le università",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Studenti-Universitari/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Per le scuole superiori",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Programmi-Specialisti/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "EVENTI",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Eventi/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Supporto",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/FAQ/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Trattamento Dati Personali",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Trattamento_dati_personali/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Privacy Policy",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Privacy/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Lazio/4417901/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "SCOPRI IL RUOLO",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Dettaglio-Allievo-Responsabile/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "CONTATTACI",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Contattaci/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Toscana/4422501/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "SCOPRI IL RUOLO",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Dettaglio-Allievo-Responsabile-Atlantic/?locale=it_IT",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Privacy/?locale=it_IT#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Consensi Cookie",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Privacy/?locale=it_IT#cookieManagerModal",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Barista-Veneto/4420401/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Liguria/4419301/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Tecnica-Emilia-Romagna/4420601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Liguria/4418001/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/?locale=it_IT#content",
+      "category": "marketing"
+    },
+    {
+      "title": "www.esselungajob.it",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/www.esselungajob.it",
+      "category": "marketing"
+    },
+    {
+      "title": "privacy@esselunga.it",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/privacy@esselunga.it",
+      "category": "marketing"
+    },
+    {
+      "title": "www.esselungajob.it",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/www.esselungajob.it/",
+      "category": "marketing"
+    },
+    {
+      "title": "Consensi Cookie",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Cookies/?locale=it_IT#cookieManagerModal",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lazio/4422601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-eb-beauty-store-Veneto/5503701/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Logistica-Chiari/4798601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Emilia-Romagna/4419101/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Logistica-Pioltello/4421801/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Funzioni-Centrali-Pioltello/4415801/#content",
+      "category": "marketing"
     }
   ]
 }
