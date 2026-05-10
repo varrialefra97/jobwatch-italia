@@ -20,9 +20,28 @@ DEGREE_KEYWORDS = [
 ]
 
 JOB_HINTS = [
-    "job", "jobs", "career", "careers", "lavora", "posizioni",
-    "opportunita", "opportunità", "annunci", "offerte",
-    "candidate", "candidati", "recruiting", "vacancy"
+    "job",
+    "jobs",
+    "career",
+    "careers",
+    "lavora",
+    "posizioni aperte",
+    "offerte lavoro",
+    "vacancy",
+    "recruiting",
+    "candidati",
+]
+
+EXCLUDED_KEYWORDS = [
+    "bilancio",
+    "comunicato",
+    "news",
+    "obbligazioni",
+    "investitori",
+    "media",
+    "press",
+    "finanziari",
+    "risultati",
 ]
 
 HEADERS = {
@@ -47,7 +66,15 @@ def is_probable_job_link(text, href):
 
 def is_relevant(text):
     lower = text.lower()
-    return any(k in lower for k in MARKETING_KEYWORDS) or any(k in lower for k in DEGREE_KEYWORDS)
+
+    if any(k in lower for k in EXCLUDED_KEYWORDS):
+        return False
+
+    marketing = any(k in lower for k in MARKETING_KEYWORDS)
+    degree = any(k in lower for k in DEGREE_KEYWORDS)
+    job = any(k in lower for k in JOB_HINTS)
+
+    return job and (marketing or degree)
 
 
 def infer_category(text):
