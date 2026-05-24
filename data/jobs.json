@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T09:11:04.932889",
+  "updated_at": "2026-05-24T15:49:55.385141",
   "jobs": [
     {
       "title": "Skip to content",
@@ -22,7 +22,7 @@
       "company": "Enel",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.enel.com/careers/being-enel#main",
+      "url": "https://www.enel.com/careers/teams#main",
       "category": "marketing"
     },
     {
@@ -30,7 +30,7 @@
       "company": "Enel",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.enel.com/careers/teams#main",
+      "url": "https://www.enel.com/careers/being-enel#main",
       "category": "marketing"
     },
     {
@@ -210,14 +210,6 @@
       "category": "marketing"
     },
     {
-      "title": "Working in the Data, A.I. and Technology Area",
-      "company": "Intesa Sanpaolo",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://group.intesasanpaolo.com/en/careers/highlighted-paths/work-in-it-digital-and-innovation-area",
-      "category": "marketing"
-    },
-    {
       "title": "Cookie Policy",
       "company": "Esselunga",
       "location": "Italia / da verificare",
@@ -326,7 +318,23 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Lazio/4423201/#content",
+      "url": "https://www.esselungajob.it/content/Storia/?locale=it_IT#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Consensi Cookie",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Storia/?locale=it_IT#cookieManagerModal",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Piemonte/4418101/#content",
       "category": "marketing"
     },
     {
@@ -350,15 +358,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Liguria/4422301/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "SCOPRI IL RUOLO",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Dettaglio-Allievo-Responsabile-Atlantic/?locale=it_IT",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Liguria/4419301/#content",
       "category": "marketing"
     },
     {
@@ -366,55 +366,15 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Toscana/4422501/#content",
+      "url": "https://www.esselungajob.it/content/Eventi/?locale=it_IT#content",
       "category": "marketing"
     },
     {
-      "title": "Salta al contenuto generale",
+      "title": "Scopri gli eventi",
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Barista-Lazio/4419901/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lombardia/4422201/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Estetista-Toscana/4416401/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Toscana/4419601/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Studenti-Universitari/?locale=it_IT#content",
-      "category": "marketing"
-    },
-    {
-      "title": "STUDENTI",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Programma-Studenti/?locale=it_IT",
+      "url": "https://www.esselungajob.it/content/VIrtual_Job_Day/?locale=it_IT",
       "category": "marketing"
     },
     {
@@ -422,7 +382,31 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Studenti-Universitari/?locale=it_IT#cookieManagerModal",
+      "url": "https://www.esselungajob.it/content/Eventi/?locale=it_IT#cookieManagerModal",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Privacy/?locale=it_IT#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Consensi Cookie",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Privacy/?locale=it_IT#cookieManagerModal",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/#content",
       "category": "marketing"
     },
     {
@@ -438,6 +422,22 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Produzione-Biandrate/4421501/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Estetista-Liguria/4416601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
       "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Veneto/4424201/#content",
       "category": "marketing"
     },
@@ -446,7 +446,15 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Logistica-Chiari/4798601/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Veneto/4422701/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "SCOPRI IL RUOLO",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Dettaglio-Allievo-Responsabile-Atlantic/?locale=it_IT",
       "category": "marketing"
     },
     {
@@ -454,7 +462,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Piemonte/4423401/#content",
+      "url": "https://www.esselungajob.it/go/Produzione-Pioltello/4421401/#content",
       "category": "marketing"
     },
     {
@@ -462,7 +470,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Produzione-Sesto-Fiorentino/4421701/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Liguria/4423301/#content",
       "category": "marketing"
     },
     {
@@ -470,7 +478,15 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Logistica-Pioltello/4421801/#content",
+      "url": "https://www.esselungajob.it/go/Produzione-Parma/4421601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Veneto/4419701/#content",
       "category": "marketing"
     }
   ]
