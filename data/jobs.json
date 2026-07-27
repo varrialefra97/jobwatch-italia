@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T09:24:23.914397",
+  "updated_at": "2026-07-27T14:07:37.263058",
   "jobs": [
     {
       "title": "Skip to content",
@@ -7,6 +7,14 @@
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://www.enel.com/careers#main",
+      "category": "marketing"
+    },
+    {
+      "title": "Skip to Main Content",
+      "company": "Enel",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers/employee-experiences#main",
       "category": "marketing"
     },
     {
@@ -26,14 +34,6 @@
       "category": "marketing"
     },
     {
-      "title": "Skip to Main Content",
-      "company": "Enel",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.enel.com/careers/employee-experiences#main",
-      "category": "marketing"
-    },
-    {
       "title": "Ingegneria e digitalizzazione",
       "company": "Ferrovie dello Stato",
       "location": "Italia / da verificare",
@@ -42,11 +42,123 @@
       "category": "marketing"
     },
     {
+      "title": "Neolaureati",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Le grandi opere civili",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/innovazione/ingegneria-e-digitalizzazione/le-grandi-opere-civili.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Percorso di selezione e digital recruiting",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/lavorare-con-noi/percorso-di-selezione-e-digital-recruiting.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Ingegneria",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/ingegneria.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Produzione e circolazione",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/produzione-e-circolazione.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Sicurezza",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/sicurezza.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Qualità",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/qualita.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Manutenzione",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/manutenzione.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Marketing e commerciale",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/marketing-e-commerciale.html",
+      "category": "marketing"
+    },
+    {
+      "title": "Acquisti e logistica",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/acquisti-e-logistica.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Immobiliare e servizi",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/immobiliare-e-servizi.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Investimenti",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/investimenti.html",
+      "category": "triennale"
+    },
+    {
+      "title": "Aree di staff",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/it/carriere/Neolaureati/aree-di-staff.html",
+      "category": "triennale"
+    },
+    {
       "title": "Lavorare nell'Area Data, A.I. and Technology",
       "company": "Intesa Sanpaolo",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://group.intesasanpaolo.com/it/careers/percorsi-in-evidenza/lavorare-nell-it-digital-e-innovation-area",
+      "category": "marketing"
+    },
+    {
+      "title": "Inglese",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/en/careers/highlighted-paths/work-in-it-digital-and-innovation-area",
       "category": "marketing"
     },
     {
@@ -58,11 +170,19 @@
       "category": "marketing"
     },
     {
-      "title": "Working in the Data, A.I. and Technology Area",
+      "title": "Selected Deals 2025",
       "company": "Intesa Sanpaolo",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://group.intesasanpaolo.com/en/careers/highlighted-paths/work-in-it-digital-and-innovation-area",
+      "url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/career/Selected%20Deals%202025.pdf",
+      "category": "marketing"
+    },
+    {
+      "title": "Selected Deals 2024",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/career/Selected%20Deals%202024.pdf",
       "category": "marketing"
     },
     {
@@ -174,7 +294,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Emilia-Romagna/4417801/#content",
+      "url": "https://www.esselungajob.it/go/Funzioni-Centrali-Biandrate/4415901/#content",
       "category": "marketing"
     },
     {
@@ -198,7 +318,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Funzioni-Centrali-Parma/4416101/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Toscana/4423501/#content",
       "category": "marketing"
     },
     {
@@ -206,7 +326,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Toscana/4424101/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Lombardia/4413601/#content",
       "category": "marketing"
     },
     {
@@ -214,79 +334,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Trattamento_dati_personali/?locale=it_IT#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Consensi Cookie",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/content/Trattamento_dati_personali/?locale=it_IT#cookieManagerModal",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Piemonte/4424001/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Farmacista-Toscana/4419001/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Veneto/4423601/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Lombardia/4417701/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Farmacista-Lombardia/4418401/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Produzione-Pioltello/4421401/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Veneto/4418301/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lazio/4422601/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Piemonte/4413801/#content",
       "category": "marketing"
     },
     {
@@ -302,7 +350,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Piemonte/4419501/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Veneto/4419701/#content",
       "category": "marketing"
     },
     {
@@ -310,7 +358,23 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Estetista-Lazio/4416501/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Veneto/4423601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-eb-beauty-store-Lazio/5503401#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lombardia/4422201/#content",
       "category": "marketing"
     },
     {
@@ -319,6 +383,54 @@
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Liguria/4419301/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Piemonte/4418101/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Piemonte/4419501/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Esserbella-Piemonte/5503801/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lazio/4422601/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Emilia-Romagna/4422401/#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Salta al contenuto generale",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/go/Estetista-Veneto/4416801/#content",
       "category": "marketing"
     }
   ]
