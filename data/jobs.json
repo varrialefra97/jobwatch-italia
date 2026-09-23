@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:05:30.469797",
+  "updated_at": "2026-09-23T10:24:12.112835",
   "jobs": [
     {
       "title": "Skip to content",
@@ -7,14 +7,6 @@
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://www.enel.com/careers#main",
-      "category": "marketing"
-    },
-    {
-      "title": "Skip to Main Content",
-      "company": "Enel",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.enel.com/careers/employee-experiences#main",
       "category": "marketing"
     },
     {
@@ -31,6 +23,14 @@
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://www.enel.com/careers/teams#main",
+      "category": "marketing"
+    },
+    {
+      "title": "Skip to Main Content",
+      "company": "Enel",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.enel.com/careers/employee-experiences#main",
       "category": "marketing"
     },
     {
@@ -146,11 +146,75 @@
       "category": "triennale"
     },
     {
+      "title": "Il Gruppo Ferrovie dello Stato Italiane ricerca Addetto alla Logistica da inserire in Mercitalia Shunting & Terminal S.r",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=17425&job-title=addetto-alla-logistica&location=italia-marche-ancona§or=trasporti-e-logistica&role=logistica-magazzino&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
+      "title": "TRENITALIA TPER ricerca persone da inserire in azienda in un percorso di formazione professionalizzante per il ruolo di ",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=15715&job-title=capotreno-trenitalia-tper&location=italia-emilia-romagna-bologna§or=trasporti-e-logistica&role=produzione&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
+      "title": "TRENITALIA TPER ricerca persone determinate da inserire nel ruolo di Customer Advisor (Operatore di Biglietteria e Custo",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=17415&job-title=customer-advisor-trenitalia-tper&location=italia-emilia-romagna-bologna§or=trasporti-e-logistica&role=commerciale-vendite&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
+      "title": "TRENITALIA Junior Specialista Contratti di Servizio (PSO Contract) - cat. Protette L.68 art. 18",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=17399&job-title=trenitalia-junior-specialista-contratti-di-servizio-pso-contract-cat-protette-l-68-art-18&location=italia-liguria-genova§or=trasporti-e-logistica&role=marketing-relazioni-esterne&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
+      "title": "Stellenbeschreibung: Die Ferrovie dello Stato Italiane Gruppe sucht nach Absolventen für den Einstieg bei Rete Ferroviar",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=17383&job-title=facharbeiter-in-fur-die-instandhaltung-der-infrastruktur-over-30-?-autonomen-provinz-bozen&location=italia-trentino-alto-adige-bolzano-bozen§or=trasporti-e-logistica&role=altro&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
+      "title": "Stellenbeschreibung: Die Ferrovie dello Stato Italiane Gruppe sucht nach Absolventen für den Einstieg bei Rete Ferroviar",
+      "company": "Ferrovie dello Stato",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://fscareers.gruppofs.it/job/view-job.php?id=17385&job-title=facharbeiter-in-fur-die-instandhaltung-der-infrastruktur-under-30-?-autonomen-provinz-bozen&location=italia-trentino-alto-adige-bolzano-bozen§or=trasporti-e-logistica&role=altro&company-name=gruppo-ferrovie-dello-stato-italiane&language=it",
+      "category": "marketing"
+    },
+    {
       "title": "Lavorare nell'Area Data, A.I. and Technology",
       "company": "Intesa Sanpaolo",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
       "url": "https://group.intesasanpaolo.com/it/careers/percorsi-in-evidenza/lavorare-nell-it-digital-e-innovation-area",
+      "category": "marketing"
+    },
+    {
+      "title": "(ri) Abilita, agricoltura sociale",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/it/sezione-editoriale/eventi-progetti/tutti-i-progetti/sociale/2021/06/progetto-ri-abilita-agricoltura-sociale-per-inserimento-lavorativo-giovani-area-penale",
+      "category": "marketing"
+    },
+    {
+      "title": "Working in the Data, A.I. and Technology Area",
+      "company": "Intesa Sanpaolo",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://group.intesasanpaolo.com/en/careers/highlighted-paths/work-in-it-digital-and-innovation-area",
       "category": "marketing"
     },
     {
@@ -278,7 +342,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Tecnica-Emilia-Romagna/4420601/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Lombardia/4413601/#content",
       "category": "marketing"
     },
     {
@@ -302,7 +366,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Toscana/4423501/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Lombardia/4413701/#content",
       "category": "marketing"
     },
     {
@@ -310,7 +374,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Lombardia/4413601/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-al-Servizio-Sorveglianza-Emilia-Romagna/4419101/#content",
       "category": "marketing"
     },
     {
@@ -318,7 +382,15 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Lombardia/4417701/#content",
+      "url": "https://www.esselungajob.it/content/Storia/?locale=it_IT#content",
+      "category": "marketing"
+    },
+    {
+      "title": "Consensi Cookie",
+      "company": "Esselunga",
+      "location": "Italia / da verificare",
+      "degree": "Possibile triennale / da verificare",
+      "url": "https://www.esselungajob.it/content/Storia/?locale=it_IT#cookieManagerModal",
       "category": "marketing"
     },
     {
@@ -326,15 +398,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Barista-Veneto/4420401/#content",
-      "category": "marketing"
-    },
-    {
-      "title": "Salta al contenuto generale",
-      "company": "Esselunga",
-      "location": "Italia / da verificare",
-      "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lazio/4422601/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Atlantic-Lombardia/4422201/#content",
       "category": "marketing"
     },
     {
@@ -350,7 +414,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Barista-Lazio/4419901/#content",
+      "url": "https://www.esselungajob.it/go/Logistica-Sesto-Fiorentino/4422101/#content",
       "category": "marketing"
     },
     {
@@ -358,7 +422,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Barista-Lombardia/4420101/#content",
+      "url": "https://www.esselungajob.it/go/Estetista-Lombardia/4416301/#content",
       "category": "marketing"
     },
     {
@@ -366,7 +430,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Produzione-Pioltello/4421401/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Liguria/4423801/#content",
       "category": "marketing"
     },
     {
@@ -374,7 +438,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Customer-Care-Sesto-Fiorentino/8848801#content",
+      "url": "https://www.esselungajob.it/go/Funzioni-Centrali-Pioltello/4415801/#content",
       "category": "marketing"
     },
     {
@@ -382,7 +446,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Lazio/4423901/#content",
+      "url": "https://www.esselungajob.it/go/Produzione-Sesto-Fiorentino/4421701/#content",
       "category": "marketing"
     },
     {
@@ -390,7 +454,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Produzione-Parma/4421601/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-eb-beauty-store-Veneto/5503701/#content",
       "category": "marketing"
     },
     {
@@ -398,7 +462,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-eb-beauty-store-Lazio/5503401#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-eb-beauty-store-Emilia-Romagna/5503901/#content",
       "category": "marketing"
     },
     {
@@ -406,7 +470,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Consulente-alla-Vendita-Lazio/4417901/#content",
+      "url": "https://www.esselungajob.it/go/Allievo-Responsabile-Lazio/4423201/#content",
       "category": "marketing"
     },
     {
@@ -414,7 +478,7 @@
       "company": "Esselunga",
       "location": "Italia / da verificare",
       "degree": "Possibile triennale / da verificare",
-      "url": "https://www.esselungajob.it/go/Farmacista-Lazio/4418601/#content",
+      "url": "https://www.esselungajob.it/go/Addetto-alla-Vendita-Piemonte/4424001/#content",
       "category": "marketing"
     }
   ]
